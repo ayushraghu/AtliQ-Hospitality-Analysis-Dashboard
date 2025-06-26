@@ -1,1 +1,1 @@
-# AtliQ-Hospitality-Analysis-Dashboard
+# AtliQ-Hospitality-Dashboard
