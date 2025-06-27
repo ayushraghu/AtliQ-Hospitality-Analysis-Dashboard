@@ -39,13 +39,19 @@ To address this challenge, the management has decided to adopt Business and Data
 
 ### Key learnings -
 1. DAX Measures -
+   
    1.1 RevPAR = Revenue / total capacity
+   
    1.2 ADR =  Revenue / total bookings
+   
    1.3 DBRN = total bookings / no. of days
+   
    1.4 DSRN = total capacity / no. of days
-   1.5 Occupancy % = successful bookings / total capacity and many more.
-3. By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the           booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
-4. Learned how to apply conditional formatting, such as data bars, to columns like Revenue.
+   
+   1.5 Occupancy % = successful bookings / total capacity
+
+2.  By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the           booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
+3. Learned how to apply conditional formatting, such as data bars, to columns like Revenue.
 
 ### Some key insights - 
 1. The Luxury category accounted for 61% of the total revenue.
@@ -56,14 +62,14 @@ To address this challenge, the management has decided to adopt Business and Data
 6. The Elite class recorded the highest number of bookings in May and July, and the highest cancellation rate of 25% in June.
 
 ### Conclusion -
-1. Optimize Weekend Pricing:
-   The company should focus on increasing RevPAR and ADR during weekends by implementing a fair and competitive pricing strategy.
+1. Optimize Weekend Pricing -
+ The company should focus on increasing RevPAR and ADR during weekends by implementing a fair and competitive pricing strategy.
 
-2. Boost Direct Online Revenue:
-   To enhance RevPAR from direct online bookings, the company should attract more customers through targeted coupon campaigns and exclusive online offers.
+2. Boost Direct Online Revenue- 
+To enhance RevPAR from direct online bookings, the company should attract more customers through targeted coupon campaigns and exclusive online offers.
 
-3. Reduce Elite Class Cancellations:
-   In the Elite class segment, the company should aim to reduce the cancellation rate by offering incentives for non-cancellation, improving pre-stay communication, and enhancing overall booking flexibility.
+3. Reduce Elite Class Cancellations-
+In the Elite class segment, the company should aim to reduce the cancellation rate by offering incentives for non-cancellation, improving pre-stay communication, and enhancing overall booking flexibility.
     
 
 
