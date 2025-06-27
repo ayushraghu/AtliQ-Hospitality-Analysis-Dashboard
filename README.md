@@ -30,6 +30,22 @@ To address this challenge, the management has decided to adopt Business and Data
 
 
 ### Booking Performance View -
+![Image](https://github.com/user-attachments/assets/7c85c8a4-d255-4fde-9b76-cfeb8a8f63a1)
+
+### key learnings -
+1. learnt to create Revenue Per Available Room(RevPAR),Daily sellable Room Nights(DSRN),Average daily Rate(ADR), Daily Booked Room Nights(DBRN),Daily Utilised Room Nights(DURN) using Dax measure.
+2. By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the           booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
+3. learnt to do conditional formatting in coloumns like databar in Revenue.
+
+### some key insights - 
+1. The Luxury category accounted for 61% of the total revenue.
+2. Week 24 accounted for the highest revenue at $139 million, with a postive week over week (WoW) change of 0.21.
+3. The differences in RevPAR and ADR between weekdays and weekends indicates a potential inconsistency in the company's weekend pricing strategy.
+4. AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+5. With 'Others' contributing 40% and Direct Online only 9% to RevPAR, it appears the company isn't leveraging coupons to maximize direct online revenue through their website.
+6. The Elite class recorded the highest number of bookings in May and July, and the highest cancellation rate of 25% in June.
+    
+
 
 
 
