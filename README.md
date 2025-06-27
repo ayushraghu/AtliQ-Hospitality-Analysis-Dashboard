@@ -22,5 +22,8 @@ To address this challenge, the management has decided to adopt Business and Data
 
                
 ### Data Model -
+![Image](https://github.com/user-attachments/assets/227859d5-f81e-4f99-a494-c132218104e5)
+
+
 
 
