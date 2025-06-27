@@ -25,5 +25,12 @@ To address this challenge, the management has decided to adopt Business and Data
 ![Image](https://github.com/user-attachments/assets/227859d5-f81e-4f99-a494-c132218104e5)
 
 
+### Overall Performance View -
+![Image](https://github.com/user-attachments/assets/01be5ee4-6185-4c5f-8d5a-6d1d3b6f9ad0)
+
+
+### Booking Performance View -
+
+
 
 
